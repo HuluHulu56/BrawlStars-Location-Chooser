@@ -2,6 +2,7 @@
 # BrawlStars latency tests packets filterer
 
 This project includes a python script made to filter out brawl stars latency test packets, based on [scapy](https://pypi.org/project/scapy/) and [pydivert](https://pypi.org/project/pydivert/)
+The ip geolocation local database ( so we dont have to use an api ) is zipped due to the big file size, for usage just un-zip it and place it on the root
 
 # Protocol
 
